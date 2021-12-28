@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uYcdjIgq32WXD9wsJNTE13q9uVe+vrxeFndRSaFq2z1izAUTD94E4Mgs7WTfuKIudMEWmp/falnJqV6It5FiRQ==",
+  "dgSpecHash": "9rnZNs3Cj2oVEEnAeUoCLERAVIIQ3xM8TXco/ViTa9XtOe1ipZNSYl9H/AmUtYsDRVuGfzPNLrNm2N2yXUYjgg==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudioProject\\StrategyPattern\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+  "projectFilePath": "C:\\Users\\shert\\OneDrive\\Документы\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

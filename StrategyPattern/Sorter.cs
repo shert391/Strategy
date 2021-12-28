@@ -13,4 +13,5 @@ public class Sorter
     {
         _sortingStrategy.ExecuteAlgorithm(array);
     }
+
 }

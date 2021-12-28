@@ -11,4 +11,5 @@ public static class MyExtensions
     {
         ArrayList.Adapter((IList)array).Sort();
     }
+
 }

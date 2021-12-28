@@ -1,4 +1,4 @@
-﻿int[] dataOne = new int[2] {10, 2};
+﻿int[] dataOne = new int[3] {10, 2, 3};
 
 Sorter sorter = new Sorter(new DefaultNetSort());
 

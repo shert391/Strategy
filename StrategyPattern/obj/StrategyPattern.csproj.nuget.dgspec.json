@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudioProject\\StrategyPattern\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {}
+    "C:\\Users\\shert\\OneDrive\\Документы\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudioProject\\StrategyPattern\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj": {
+    "C:\\Users\\shert\\OneDrive\\Документы\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudioProject\\StrategyPattern\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+        "projectUniqueName": "C:\\Users\\shert\\OneDrive\\Документы\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern.csproj",
         "projectName": "StrategyPattern",
-        "projectPath": "D:\\VisualStudioProject\\StrategyPattern\\StrategyPattern\\StrategyPattern\\StrategyPattern.csproj",
+        "projectPath": "C:\\Users\\shert\\OneDrive\\Документы\\GitHub\\Strategy\\StrategyPattern\\StrategyPattern.csproj",
         "packagesPath": "C:\\Users\\shert\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudioProject\\StrategyPattern\\StrategyPattern\\StrategyPattern\\obj\\",
+        "outputPath": "C:\\Users\\shert\\OneDrive\\Документы\\GitHub\\Strategy\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\VisualStudioSdk\\NuGetPackages"
