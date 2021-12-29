@@ -1,0 +1,29 @@
+// Validating benchmarks:
+// ***** BenchmarkRunner: Start   *****
+// ***** Found 5 benchmark(s) in total *****
+// ***** Building 1 exe(s) in Parallel: Start   *****
+// start dotnet restore  /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\shert\OneDrive\Документы\GitHub\Strategy\StrategyPattern\bin\Release\net6.0\f4a8b678-fdd0-4527-ab2e-00a113e311fc
+// command took 1,43s and exited with 0
+// start dotnet build -c Release  --no-restore /p:UseSharedCompilation=false /p:BuildInParallel=false /m:1 /p:Deterministic=true /p:Optimize=true in C:\Users\shert\OneDrive\Документы\GitHub\Strategy\StrategyPattern\bin\Release\net6.0\f4a8b678-fdd0-4527-ab2e-00a113e311fc
+// command took 2,74s and exited with 0
+// ***** Done, took 00:00:04 (4.3 sec)   *****
+// Found 5 benchmarks:
+//   MySortBenchmark.TestBubbleSort: DefaultJob [Number=1000000]
+//   MySortBenchmark.TestDefaultNetSort: DefaultJob [Number=1000000]
+//   MySortBenchmark.TestInsertionSort: DefaultJob [Number=1000000]
+//   MySortBenchmark.TestShakerSort: DefaultJob [Number=1000000]
+//   MySortBenchmark.TestShellSort: DefaultJob [Number=1000000]
+
+// **************************
+// Benchmark: MySortBenchmark.TestBubbleSort: DefaultJob [Number=1000000]
+// *** Execute ***
+// Launch: 1 / 1
+// Execute: dotnet "f4a8b678-fdd0-4527-ab2e-00a113e311fc.dll" --benchmarkName "StrategyPattern.MySortBenchmark.TestBubbleSort(Number: 1000000)" --job "Default" --benchmarkId 0 in C:\Users\shert\OneDrive\Документы\GitHub\Strategy\StrategyPattern\bin\Release\net6.0\f4a8b678-fdd0-4527-ab2e-00a113e311fc\bin\Release\net6.0
+// BeforeAnythingElse
+
+// Benchmark Process Environment Information:
+// Runtime=.NET 6.0.1 (6.0.121.56705), X64 RyuJIT
+// GC=Concurrent Workstation
+// Job: DefaultJob
+
+OverheadJitting  1: 1 op, 283000.00 ns, 283.0000 us/op

@@ -2,16 +2,15 @@
 
 public class Sorter
 {
-    private ISortAlgorithm _sortingStrategy;
+    public ISortAlgorithm SortingStrategy { get; set; }
 
     public Sorter(ISortAlgorithm sortingStrategy)
     {
-        _sortingStrategy = sortingStrategy;
+        SortingStrategy = sortingStrategy;
     }
 
     public void Sort<T>(IList<T> array) where T: ISpanFormattable, IComparable
     {
-        _sortingStrategy.ExecuteAlgorithm(array);
+        SortingStrategy.ExecuteAlgorithm(array);
     }
-
 }
